@@ -1,0 +1,3 @@
+this is a text file 
+i want to commit this file
+changed by me
